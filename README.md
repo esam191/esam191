@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a Android Studio App (NoteMe repo) and Object Detection System (Object Detection Capstone repo)
+- 🔭 I’m currently working on a Mobile App (NoteMe repo) and Object Detection System (Object Detection Capstone repo)
 - 👯 I’m looking to collaborate on any open-source projects
 - 💬 Ask me about anything
 - 📫 How to reach me: esam.uddin@ontariotechu.net 
